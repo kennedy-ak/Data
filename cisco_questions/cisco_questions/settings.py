@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-2r4i&@$^d$b00$5zh_ah2n3c#ou%rzx#qz!9it)4*b6v4zt33m
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['cisco.digitalrepublic.space']
 
 
 # Application definition
