@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/User2/Desktop/Personal_Project/**)",
+      "Bash(pip show:*)"
+    ]
+  }
+}
